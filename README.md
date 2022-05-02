@@ -10,11 +10,11 @@ At the start of the program user is asked to provide number of particles searchi
 of iterations of each algorithm as well as choice of saving the positions of particles at every iteration to txt file
 in order to visualize the optimization process in MATLAB. After that user has a choice to choose one of the following
 functions on which he wishes to test the algorithms on:
--Sphere function
--Booth function
--Rastrigin function
--Beale function
+- Sphere function
+- Booth function
+- Rastrigin function
+- Beale function
 
-The output is a result each algorithm finds and time it took to run the algorithm.
+The output is a result each algorithm finds and time it took to run each algorithm.
 
 
